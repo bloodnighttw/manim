@@ -1,4 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/bntw/PycharmProjects/manimCPP/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3529212410_2402691160_223132457.mp4'
-file 'file:/home/bntw/PycharmProjects/manimCPP/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3040924799_1160899369_666618010.mp4'
-file 'file:/home/bntw/PycharmProjects/manimCPP/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3040924799_1704852926_2072044599.mp4'

@@ -5,97 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9ffcaf8-6f94-4b06-9872-a71358080251" name="Changes" comment="init commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn/media/jupyter/SquareToCircle@2024-02-03@23-02-35.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learn/learning1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/learn/learning1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0000.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0002.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0003.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0004.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0005.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0006.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0007.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0008.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0009.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0010.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0011.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0012.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0013.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0014.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0016.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0018.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0020.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0022.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0023.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0024.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0025.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0026.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0027.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0028.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0029.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0030.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0032.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0033.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0034.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0035.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0036.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0037.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0039.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0040.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0041.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0042.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/images/manimCPP/SquareToCircle0044.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/jupyter/SquareToCircle@2024-02-03@22-25-26.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/jupyter/SquareToCircle@2024-02-03@22-27-02.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/jupyter/SquareToCircle@2024-02-03@22-30-35.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/jupyter/SquareToCircle@2024-02-03@22-37-15.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/jupyter/SquareToCircle@2024-02-03@22-38-33.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/jupyter/SquareToCircle@2024-02-03@22-43-35.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/jupyter/SquareToCircle@2024-02-03@22-45-08.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/jupyter/SquareToCircle@2024-02-03@22-54-03.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/SquareToCircle.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/SquareToCircle_ManimCE_v0.18.0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/2852726489_1160899369_666618010.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/2852726489_1704852926_2072044599.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3040924799_1160899369_666618010.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3040924799_1704852926_1954612908.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3040924799_1704852926_2072044599.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3040924799_3462298768_666618010.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3529212410_1394511312_223132457.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3529212410_2402691160_223132457.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/3977891868_2402691160_223132457.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/1080p60/partial_movie_files/SquareToCircle/partial_movie_file_list.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/SquareToCircle.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/SquareToCircle.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/SquareToCircle_ManimCE_v0.18.0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/1185818338_2402691160_223132457.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/1185818338_2402691160_223132457.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/1185818338_2402691160_223132457.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/624642324_1160899369_666618010.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/624642324_1160899369_666618010.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/624642324_1160899369_666618010.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/624642324_123554531_2072044599.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/624642324_1704852926_2072044599.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/624642324_1704852926_2072044599.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/624642324_1704852926_2072044599.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/624642324_3562022197_666618010.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/480p15/partial_movie_files/SquareToCircle/partial_movie_file_list.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/720p30/SquareToCircle.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/720p30/SquareToCircle_ManimCE_v0.18.0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/720p30/partial_movie_files/SquareToCircle/2016333726_1394511312_223132457.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/720p30/partial_movie_files/SquareToCircle/2016333726_2402691160_223132457.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/720p30/partial_movie_files/SquareToCircle/543634251_1160899369_666618010.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/720p30/partial_movie_files/SquareToCircle/543634251_1704852926_1954612908.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/720p30/partial_movie_files/SquareToCircle/543634251_1704852926_2072044599.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/720p30/partial_movie_files/SquareToCircle/543634251_3462298768_666618010.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/videos/manimCPP/720p30/partial_movie_files/SquareToCircle/partial_movie_file_list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn/media/jupyter/SquareToCircle@2024-02-03@23-00-26.gif" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +75,7 @@
       <workItem from="1706969069475" duration="69000" />
       <workItem from="1706969158417" duration="588000" />
       <workItem from="1706969770550" duration="660000" />
-      <workItem from="1706970504336" duration="1680000" />
+      <workItem from="1706970504336" duration="2062000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -197,7 +109,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706972093195</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1706972470237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706972470237</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1706972566255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706972566255</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
